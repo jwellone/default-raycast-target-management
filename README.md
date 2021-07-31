@@ -1,6 +1,5 @@
 # default-raycast-target-management(ver1.0.0)
-Of the newly added ugui components
-If you don't need the raycast target, uncheck it.
+When add the ugui component, uncheck it if you don't need Raycast Target.
 
 This feature is one of the "UniExtensions" developed by jwellone Inc for Unity.
 
