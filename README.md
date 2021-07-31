@@ -11,4 +11,4 @@ Created by Yasuhiko Usui
 facebook: https://www.facebook.com/Jwellone-Inc-110584057879884/
 
 # License
-This extension is under the [MIT License](https://github.com/jwellone/file-size-viewer/blob/main/LICENSE).
+This extension is under the [MIT License](https://github.com/jwellone/default-raycast-target-management/blob/main/LICENSE).
