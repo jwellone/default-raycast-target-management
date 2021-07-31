@@ -2,13 +2,19 @@
 Of the newly added ugui components
 If you don't need the raycast target, uncheck it.
 
+This feature is one of the "UniExtensions" developed by jwellone Inc for Unity.
+
+
 # GET STARTED
-It can be used by importing the package.
+- import this package.
 
-# Author Info
-Created by Yasuhiko Usui
 
-facebook: https://www.facebook.com/Jwellone-Inc-110584057879884/
+## Authors
+**jwellone** Inc. [GitHub](https://github.com/jwellone/) / [Twitter](https://twitter.com/jwellone) / [Facebook](https://www.facebook.com/Jwellone-Inc-110584057879884/)
+
+Developer:
+- Yasuhiko Usui.
+
 
 # License
 This extension is under the [MIT License](https://github.com/jwellone/default-raycast-target-management/blob/main/LICENSE).
