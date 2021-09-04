@@ -9,7 +9,7 @@
 # default-raycast-target-management
 When add the ugui component, uncheck it if you don't need Raycast Target.
 
-This feature is one of the "UniExtensions" developed by jwellone Inc for Unity.
+This feature is one of the "j1Tech" developed by jwellone Inc for Unity.
 
 
 ## Getting Started
