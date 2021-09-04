@@ -139,7 +139,10 @@ namespace UniExtensions.Editor
 					continue;
 				}
 
-				graphic.raycastTarget = GetRaycastTarget(graphic);
+				if (PrefabUtility.GetPrefabInstanceHandle(graphic)==null)
+				{
+					graphic.raycastTarget = GetRaycastTarget(graphic);
+				}
 				s_graphics.Add(graphic);
 			}
 		}
