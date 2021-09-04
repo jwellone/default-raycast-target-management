@@ -1,5 +1,5 @@
 {
-    "name": "UniExtensions.DefaultRaycastTargetManagement.Editor",
+    "name": "jwellone.DefaultRaycastTargetManagement.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"
