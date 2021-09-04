@@ -6,7 +6,7 @@ using UnityEngine.EventSystems;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-namespace UniExtensions.Editor
+namespace jwellone.UI.Editor
 {
 	[InitializeOnLoadAttribute]
 	public static class DefaultRaycastTargetManagement
